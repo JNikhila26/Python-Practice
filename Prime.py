@@ -7,7 +7,6 @@
 #     n = n//10
 # if on == rev_n:
 #     print("p")
-#     print(1%10)
 # else:
 #     print("NP")
 
